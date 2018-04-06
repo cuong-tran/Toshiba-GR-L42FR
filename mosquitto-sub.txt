@@ -1,0 +1,1 @@
+mosquitto_sub -h localhost -p 1883 -v -t 'tele/pow/ENERGY' -t 'tele/temp-sensor/SENSOR' >> /mnt/wd22/in-out/temp-tele1.txt &
