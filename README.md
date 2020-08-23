@@ -5,6 +5,6 @@ during operation, there were jambs on the part of users who did not always close
 
 nine years later, it was noticed that the accumulator, which had spilled out in the freezer (MK), had become somehow soft, and something was wrong with frozen products. and a frozen puddle appeared in the ice chamber.
 
-[Errors](https://github.com/cuong-tran/Toshiba-GR-L42FR/wiki/Error-codes)
+[Error codes](https://github.com/cuong-tran/Toshiba-GR-L42FR/wiki/Error-codes)
 
 [Home refrigerator diagnostics and repair](https://github.com/cuong-tran/Toshiba-GR-L42FR/wiki/Home-refrigerator-diagnostics-and-repair)
